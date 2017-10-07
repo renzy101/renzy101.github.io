@@ -1,0 +1,80 @@
+  html {
+    background-color: white;
+    color: #00688B;
+  }
+  
+  #propic {
+    height: 40%;
+    width: 15%;
+    right: 40%;
+    z-index: 1;
+    position: absolute;
+    border: 5px solid #00688B;
+    margin-left: 6px;
+    margin-right: 10px;
+    -ms-tranform: rotate(-3deg);
+    -ms-transform: rotate(-3deg);
+        transform: rotate(-3deg);
+    -webkit-transform: rotate(-3deg);
+  }
+  
+  #block {
+    background-color: #F5F5F5;
+    padding-left: 20px;
+    float: left;
+    width: 60%; 
+  } 
+  #objective {
+    font-size: 100%;
+    font-style: bold;
+    text-decoration: none;
+  }
+  #email {
+    color: #9AC0CD;
+    font-style: italic;
+    text-decoration: underline;
+  }
+  
+  .lessmargin {
+    margin: 2px;
+  }
+  
+  hr {
+    background-color: #2f4f4f;
+    border: 0 none;
+    height: 5px;
+    width: 100%;
+  }
+  
+  #upperdiv {
+    background-color: white;
+    padding-left: 50px;
+  }
+
+  .minicontainer{
+    background-color: #F5F5F5;
+    width: 61.3%;
+    clear: right;
+    float: left;
+  }
+  .totheleft {
+    font-style: italic;
+    float: left;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-right: 2px solid #2f4f4f;
+    line-height: 100px;
+    width: 5%;
+  }
+  
+  .totheright {
+    float: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    display: inline-block;
+    width: 50%; 
+  }
+  
+  ul {
+    padding-left: 18px;
+  }
